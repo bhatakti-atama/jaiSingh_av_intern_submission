@@ -1,4 +1,4 @@
-# JaiSingh AV Intern Submission
+# Jai Singh AV Intern Submission
 
 ## Part 1
 
