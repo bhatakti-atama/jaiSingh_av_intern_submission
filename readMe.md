@@ -1,5 +1,9 @@
 # Jai Singh AV Intern Submission
 
+## Part 2
+
+https://docs.google.com/presentation/d/1cL7RC1KSXnh2wsbwD1AiOiSBsE2wAthG7_iOPB6seSA/edit?usp=sharing
+
 ## Part 1
 
 ### Note I was not able to make a testing API in time. So there is no api to test with your own images currently. Please Do read through the document
